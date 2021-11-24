@@ -1,0 +1,11 @@
+D:\Microsoft Visual Studio\game\game\bin\Debug\game.exe.config
+D:\Microsoft Visual Studio\game\game\bin\Debug\game.exe
+D:\Microsoft Visual Studio\game\game\bin\Debug\game.pdb
+D:\Microsoft Visual Studio\game\game\obj\Debug\game.csproj.AssemblyReference.cache
+D:\Microsoft Visual Studio\game\game\obj\Debug\game.csproj.SuggestedBindingRedirects.cache
+D:\Microsoft Visual Studio\game\game\obj\Debug\game.Form1.resources
+D:\Microsoft Visual Studio\game\game\obj\Debug\game.Properties.Resources.resources
+D:\Microsoft Visual Studio\game\game\obj\Debug\game.csproj.GenerateResource.cache
+D:\Microsoft Visual Studio\game\game\obj\Debug\game.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\game\game\obj\Debug\game.exe
+D:\Microsoft Visual Studio\game\game\obj\Debug\game.pdb
